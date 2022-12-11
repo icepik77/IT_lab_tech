@@ -36,9 +36,9 @@
 ## ✅ Лабораторная работа №3
 Предоставление ранее выполненных работ по теме "Настройка локальной сети передачи данных".
 Загрузка в Git-репозиторий отчета о проделанной работе в Cisco Packet Tracer.
-Сценарий доступен по [ссылке.](https://github.com/icepik77/IT_lab_tech/blob/main/CPT/Сценарий%20%20для%20CPT.pka)
-Конфигурация доступна по [ссылке.](https://github.com/icepik77/IT_lab_tech/blob/main/CPT/Форма%20отчета%20к%20ЛР3.pdf)
-Настройка сети доступна по [ссылке.](https://github.com/icepik77/IT_lab_tech/blob/main/CPT/настройка%20сети.txt)
+- Сценарий доступен по [ссылке.](https://github.com/icepik77/IT_lab_tech/blob/main/CPT/Сценарий%20%20для%20CPT.pka)
+- Конфигурация доступна по [ссылке.](https://github.com/icepik77/IT_lab_tech/blob/main/CPT/Форма%20отчета%20к%20ЛР3.pdf)
+- Настройка сети доступна по [ссылке.](https://github.com/icepik77/IT_lab_tech/blob/main/CPT/настройка%20сети.txt)
 
 ## Экзаменационный билет 6
 Ответ на экзаменационный билет доступен по ссылке: билет № 6
