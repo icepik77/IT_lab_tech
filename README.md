@@ -40,5 +40,5 @@
 - Конфигурация доступна по [ссылке.](https://github.com/icepik77/IT_lab_tech/blob/main/CPT/Форма%20отчета%20к%20ЛР3.pdf)
 - Настройка сети доступна по [ссылке.](https://github.com/icepik77/IT_lab_tech/blob/main/CPT/настройка%20сети.txt)
 
-## Экзаменационный билет 6
+## Экзаменационный билет 7
 Ответ на экзаменационный билет доступен по ссылке: [билет № 7](https://github.com/stankin/inet-2022/wiki/exam07)
