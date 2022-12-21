@@ -90,5 +90,5 @@
 Ответ на экзаменационный билет доступен по ссылке: [билет № 7](https://github.com/stankin/inet-2022/wiki/exam07)
 
 Ссылки на коммиты:
- - [Ссылка e5d2c71](https://github.com/stankin/inet-2022/wiki/exam07/e5d2c711318a3f2d47c6c53b4411705cb734f5a0)
- - [Ссылка 8c85403](https://github.com/stankin/inet-2022/wiki/exam07/8c85403af12277dc5f6430d18b2c5790511c5880)
+ - [Ссылка](https://github.com/stankin/inet-2022/wiki/exam07/_compare/0c6b29e59a4ca0c800870fe3239f67d8f0559dd5...8c85403af12277dc5f6430d18b2c5790511c5880)
+ - [Еще коммит](https://github.com/stankin/inet-2022/wiki/exam07/_compare/8c85403af12277dc5f6430d18b2c5790511c5880...e5d2c711318a3f2d47c6c53b4411705cb734f5a0)
